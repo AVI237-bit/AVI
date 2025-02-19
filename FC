@@ -1,0 +1,39 @@
+{
+	"PlayerData": [
+		{
+			"ID": 10,
+			"Forename": "Alex",
+			"Surname": "Arévalo",
+			"ImageURL": "https://tusitio.com/alex_arevalo.jpg",
+			"ClubID": 5
+		}
+	],
+	"ClubData": [
+		{
+			"ID": 5,
+			"Name": "FC Barcelona",
+			"ShortName": "BAR",
+			"ImageURL": "https://tusitio.com/barcelona_logo.jpg"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 1,
+			"Name": "LaLiga",
+			"ImageURL": "https://tusitio.com/laliga_logo.jpg"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 2,
+			"Name": "Copa del Rey",
+			"ImageURL": "https://tusitio.com/copadelrey_logo.jpg"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Spotify Camp Nou"
+		}
+	]
+}
